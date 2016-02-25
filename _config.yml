@@ -1,0 +1,28 @@
+name: Zville
+favicon: null
+layout_spectrum: 0.8684749840758741
+typography_spectrum: 0.7888485072180629
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.5988528160378337
+  lightness: 0.9408600826282054
+  saturation: 0.4457201808691025
+  rhythmicContrast: 0.7070691317785531
+purpose: []
