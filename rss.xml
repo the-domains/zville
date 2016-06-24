@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Zville]]></title>
+        <description><![CDATA[Zville]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Fri, 24 Jun 2016 18:47:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ZIJA'S MORINGA]]></title>
+            <description><![CDATA[<article><h1>ZIJA'S MORINGA</h1><h2>MORINGA FARMS</h2><p>Over the last 50 years we have observed the widespread commoditization of food. While it is cheaper and more readily available than ever before, the low-cost manufacturing and harvesting practices used to produce food have compromised its nutritional value. For example, 100 years ago the average person consumed around 200 grams of fiber daily; today that number is closer to 15 grams. The result is a worldwide nutritional famine.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca21b7441f16a48f6832b72667a1bdbf3dfb14d6.jpg"></article>]]></description>
+            <link>undefinedzijas-moringa/index.html</link>
+            <guid isPermaLink="false">f711c86d-969b-462a-b622-4796a46bc753</guid>
+            <pubDate>Fri, 24 Jun 2016 18:47:29 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
