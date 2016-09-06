@@ -1,8 +1,9 @@
 ---
 keywords: []
 title: ZIJA'S MORINGA
-datePublished: '2016-08-30T06:20:25.165Z'
-dateModified: '2016-08-30T06:20:22.092Z'
+datePublished: '2016-09-03T05:51:00.497Z'
+dateModified: '2016-09-03T05:50:47.448Z'
+publisher: {}
 author: []
 inFeed: true
 hasPage: true
@@ -14,7 +15,6 @@ description: >-
   compromised its nutritional value. For example, 100 years ago the average
   person consumed around 200 grams of fiber daily; today that number is closer
   to 15 grams. The result is a worldwide nutritional famine.
-publisher: {}
 via: {}
 starred: false
 sourcePath: _posts/2016-06-24-zijas-moringa.md
@@ -30,8 +30,6 @@ Over the last 50 years we have observed the widespread commoditization of food. 
 
 The beneficial properties of Moringa are unparalleled and highly unique. Moringa is enriched with both water and fat-soluble vitamins, it is an excellent source of the amino acids that our body craves, and it has rare phytocompounds that aid in promoting a healthier body.
 ![](https://s3-us-west-2.amazonaws.com/the-grid-img/p/ca21b7441f16a48f6832b72667a1bdbf3dfb14d6.jpg)
-
-MORINGA FARMS
 
 Recognizing that the nutrition in Moringa is not immune to harsh harvesting and manufacturing practices, Zija has gone above and beyond industry standards to deliver the most nutritious Moringa possible. From tree to mouth, Zija scrutinizes each step to ensure that nutrition is at the forefront of all decisions in the growing, harvesting, and manufacturing processes. I will address just a few of the steps that Zija takes to ensure that the nutrition of our products is never compromised; after all, Moringa without its nutrition becomes just another plant.
 
